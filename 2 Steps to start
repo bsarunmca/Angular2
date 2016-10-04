@@ -2,6 +2,8 @@ Only 2 Steps to Start Angular2. Follow these Steps.
 1)npm install
 2)npm start
 
+Reference:
+https://angular.io/docs/ts/latest/quickstart.html
 
 Copy Paste the Angular2 folder to your local.
 Go to the Angular2 dir in command prompt 
