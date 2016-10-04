@@ -1,0 +1,39 @@
+Only 2 Steps to Start Angular2. Follow these Steps.
+1)npm install
+2)npm start
+
+
+Copy Paste the Angular2 folder to your local.
+Go to the Angular2 dir in command prompt 
+
+1) D:\angular2>npm install
+
+Check the folder Structure 
+angular2
+	node_modules ...
+	typings ...
+	package.json
+	systemjs.config.js
+	tsconfig.json
+	typings.json
+	
+  If the typings folder doesn't show up after running npm install, you'll need to install it manually with the command:
+  1.2) D:\angular2>npm run typings install
+
+2) D:\angular2>npm start
+
+
+The final project folder structure looks like this:
+angular2
+	app
+		app.component.ts
+		app.module.ts
+		main.ts
+	node_modules ...
+	typings ...
+	index.html
+	package.json
+	styles.css
+	systemjs.config.js
+	tsconfig.json
+	typings.json
